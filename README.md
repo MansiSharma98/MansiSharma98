@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on ML/Data Science projects and competitions
 - 📫 You can reach me at mailmansisharma98@gmail.com
 - You can also find me on Kaggle : https://www.kaggle.com/mansisharma98
-- You can also find me on LinkedIn : https://www.linkedin.com/in/mansisharma1998/
+- LinkedIn : <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mansisharma1998" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mansisharma1998?trk=profile-badge">Mansi Sharma</a></div>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="mansisharma1998" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mansisharma1998?trk=profile-badge">Mansi Sharma</a></div>
               
 
 <!---
