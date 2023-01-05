@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mansi
 - 👀 I’m interested in the science of Data and its applications
-- 🌱 I’m currently working as a Software Engineer at Accenture
+- 🌱 I’m currently working as a Associate Data Scientist at Outplay
 - 💞️ I’m looking to collaborate on ML/Data Science projects and competitions
 - 📫 You can reach me at mailmansisharma98@gmail.com
 - You can also find me on Kaggle : https://www.kaggle.com/mansisharma98
