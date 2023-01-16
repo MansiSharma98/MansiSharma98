@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Mansi
-- 👀 I’m interested in the science of Data and its applications
-- 🌱 I’m currently working as a Associate Data Scientist at Outplay
-- 💞️ I’m looking to collaborate on ML/Data Science projects and competitions
-- 📫 You can reach me at mailmansisharma98@gmail.com
-- You can also find me on Kaggle : https://www.kaggle.com/mansisharma98
-- LinkedIn : https://in.linkedin.com/in/mansisharma1998
-              
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MansiSharma98&theme=dark)](https://git.io/streak-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mailmansisharma98)](https://leetcode.com/mailmansisharma98)
 
 <!---
 MansiSharma98/MansiSharma98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
