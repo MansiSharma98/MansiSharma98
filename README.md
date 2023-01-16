@@ -1,12 +1,8 @@
-# Welcome to my GitHub Profile!
+## Welcome to my GitHub Profile!
 
 ![Profile Image](https://github.com/MansiSharma98/MansiSharma98/blob/main/Maensys%20Targaryen%20Insta%20(1).jpg)
 
 I'm a Mansi, a Data Scientist with experience in AI/ML.
-
-## My Work
-
-- **Project 1**: [Project Name](https://github.com/yourusername/project-1) - A brief description of the project, what it does, and the technologies used.
 
 ## Skills
 
